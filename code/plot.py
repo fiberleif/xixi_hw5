@@ -4,7 +4,6 @@ import numpy as np
 import pylab as pl
 
 log_dir = r"./log/"
-root_dir = os.path.abspath('')
 colors = ["lightcoral", "dodgerblue"]
 
 def plot(name, log_csv):
@@ -18,7 +17,7 @@ def plot(name, log_csv):
     pl.plot(epoch, avg_loss, color= colors[0], linestyle='-')
     pl.legend(loc='lower right')
     pl.grid(color='gray', linestyle="--")
-    pl.savefig(root_dir + r"/figures/" + name.lower() + "_loss" + '.png')
+    pl.savefig(name.lower() + "_loss" + '.png')
     pl.close()
     # accuracy
     pl.title(name + "_accuracy")
@@ -27,7 +26,7 @@ def plot(name, log_csv):
     pl.plot(epoch, avg_accuracy, color= colors[1], linestyle='-')
     pl.legend(loc='lower right')
     pl.grid(color='gray', linestyle="--")
-    pl.savefig(root_dir + r"/figures/" + name.lower() + "_accuracy" + '.png')
+    pl.savefig(name.lower() + "_accuracy" + '.png')
     pl.close()
 
 def plot_all(dir):

@@ -1,0 +1,262 @@
+Logging to /home/guoqing/chenxi/xixi_hw5/log/flowers17-CNN-pretrain-True-seed-1
+feature size: 150528
+label size: 17
+
+Test set: Average loss: 10.4078, Accuracy: 53/680 (8%)
+
+---------------------------
+| avg_accuracy | 7.79     |
+| avg_loss     | 10.4     |
+| epoch        | 0        |
+---------------------------
+Train Epoch: 1 [0/680 (0%)]	Loss: 8.963981
+Train Epoch: 1 [400/680 (91%)]	Loss: 82.300575
+
+Test set: Average loss: 35.4488, Accuracy: 634/680 (93%)
+
+---------------------------
+| avg_accuracy | 93.2     |
+| avg_loss     | 35.4     |
+| epoch        | 1        |
+---------------------------
+Train Epoch: 2 [0/680 (0%)]	Loss: 6.752681
+Train Epoch: 2 [400/680 (91%)]	Loss: 4.998856
+
+Test set: Average loss: 3.1574, Accuracy: 667/680 (98%)
+
+---------------------------
+| avg_accuracy | 98.1     |
+| avg_loss     | 3.16     |
+| epoch        | 2        |
+---------------------------
+Train Epoch: 3 [0/680 (0%)]	Loss: 1.003586
+Train Epoch: 3 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 2.0360, Accuracy: 672/680 (99%)
+
+---------------------------
+| avg_accuracy | 98.8     |
+| avg_loss     | 2.04     |
+| epoch        | 3        |
+---------------------------
+Train Epoch: 4 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 4 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.4066, Accuracy: 678/680 (100%)
+
+---------------------------
+| avg_accuracy | 99.7     |
+| avg_loss     | 0.407    |
+| epoch        | 4        |
+---------------------------
+Train Epoch: 5 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 5 [400/680 (91%)]	Loss: 4.464929
+
+Test set: Average loss: 0.0351, Accuracy: 679/680 (100%)
+
+---------------------------
+| avg_accuracy | 99.9     |
+| avg_loss     | 0.0351   |
+| epoch        | 5        |
+---------------------------
+Train Epoch: 6 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 6 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 6        |
+---------------------------
+Train Epoch: 7 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 7 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 7        |
+---------------------------
+Train Epoch: 8 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 8 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 8        |
+---------------------------
+Train Epoch: 9 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 9 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 9        |
+---------------------------
+Train Epoch: 10 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 10 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 10       |
+---------------------------
+Train Epoch: 11 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 11 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 11       |
+---------------------------
+Train Epoch: 12 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 12 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 12       |
+---------------------------
+Train Epoch: 13 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 13 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 13       |
+---------------------------
+Train Epoch: 14 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 14 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 14       |
+---------------------------
+Train Epoch: 15 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 15 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 15       |
+---------------------------
+Train Epoch: 16 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 16 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 16       |
+---------------------------
+Train Epoch: 17 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 17 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 17       |
+---------------------------
+Train Epoch: 18 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 18 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 18       |
+---------------------------
+Train Epoch: 19 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 19 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 19       |
+---------------------------
+Train Epoch: 20 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 20 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 20       |
+---------------------------
+Train Epoch: 21 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 21 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 21       |
+---------------------------
+Train Epoch: 22 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 22 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 22       |
+---------------------------
+Train Epoch: 23 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 23 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 23       |
+---------------------------
+Train Epoch: 24 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 24 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 24       |
+---------------------------
+Train Epoch: 25 [0/680 (0%)]	Loss: 0.000000
+Train Epoch: 25 [400/680 (91%)]	Loss: 0.000000
+
+Test set: Average loss: 0.0000, Accuracy: 680/680 (100%)
+
+---------------------------
+| avg_accuracy | 100      |
+| avg_loss     | 0        |
+| epoch        | 25       |
+---------------------------
+Train Epoch: 26 [0/680 (0%)]	Loss: 0.000000
